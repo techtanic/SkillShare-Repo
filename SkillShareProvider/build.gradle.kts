@@ -5,7 +5,7 @@ version = 1
 cloudstream {
     // All of these properties are optional, you can safely remove them
 
-    // description = "Lorem Ipsum"
+    description = "Watch Skillshare courses for free!"
     language= "en"
     authors = listOf("techtanic","Forthe")
 
