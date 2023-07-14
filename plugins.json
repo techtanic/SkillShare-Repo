@@ -1,0 +1,22 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=skillshare.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/techtanic/SkillShare-Repo",
+        "fileSize": 18235,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "techtanic",
+            "Forthe"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 1,
+        "internalName": "SkillShareProvider",
+        "description": "Watch Skillshare courses for free!",
+        "url": "https://raw.githubusercontent.com/techtanic/SkillShare-Repo/builds/SkillShareProvider.cs3",
+        "name": "SkillShareProvider"
+    }
+]
