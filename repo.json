@@ -1,0 +1,8 @@
+{
+    "name": "SkillShare Repo",
+    "description": "SkillShare Plugin Repository",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/techtanic/SkillShare-Repo/builds/plugins.json"
+    ]
+}
